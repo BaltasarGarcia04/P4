@@ -1,2 +1,2 @@
 # P4
-Creacion e implementacion de sistema de administracion inmobiliaria.
+Creacion e implementacion de prototipo sistema de administracion inmobiliaria.
