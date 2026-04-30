@@ -1,0 +1,38 @@
+la idea es que antes de comenzar con un archivo lo que hagamos sea poner al lado del nombre del archivo 
+nuestro nombre asi el resto sabemos que esa persona esta trabajando en ese archivo y no pisarnos, es fundamental 
+que antes de comenzar a codear en el archivo revisen siempre este y actualicen en el que van a trabajar.
+la gracia de este archivo es que sea una lista de cosas pendientes.
+
+--CUANDO PUEDAN REVISEN EL DOCUMENTO QUE MANDE A WTSP PARA SUSTITUIR ESTE Y NO TENER QUE ANDAR MERGEANDO-- 
+
+Implementar :
+    -casa - haciendo cpp lucho 
+    -publicacion --> terminado (revisar)
+    -administrapropiedad  (terminado el .h)
+    -apartamento -  (terminado el .h )
+    -cliente - (terminado el .h revisar) (Santi .cpp Terminando)
+    -IcontroladorfechActual
+    -inmobiliaria  --terminado (revisar)
+    -inmueble - terminado (revisar)
+    -manejadorinmueble --> .h terminado queda el cpp
+    -manejadorusuario -->  .h  agus con el cpp
+    -manejadorpublicacion --> .h balta con el cpp
+    -propietario -Terminado (revisar)
+    -tipoinmueble 
+    -tipopublicacion
+    -tipotecho
+    -usuario - terminado (revisar)
+    -ControladorUsuario -- (En proceso) Gonza
+
+
+Definir : 
+    -controladores balta
+    -interfaces
+ 
+Agregrar lo que falta: 
+    cargarDatos
+    menu 
+
+Dudas para el monitoreo:
+    1) Que hacer en destructor de singleton? Factory/Controllers/Manejadores.
+
